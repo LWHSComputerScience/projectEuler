@@ -1,0 +1,1 @@
+Problem 72 replace with problem description (https://projecteuler.net/problem=72)
