@@ -1,3 +1,24 @@
+<<<<<<< HEAD
 .idea
 .idea/workspace.xml
 .idea/workspace.xml
+=======
+
+.idea/misc.xml
+
+.idea/encodings.xml
+
+.idea/misc.xml
+
+.idea/misc.xml
+
+.idea/projectEuler.iml
+
+*.xml
+
+.idea/projectEuler.iml
+
+.idea/workspace.xml
+
+.idea/misc.xml
+>>>>>>> origin/master
